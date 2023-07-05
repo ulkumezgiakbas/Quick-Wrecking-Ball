@@ -20,4 +20,5 @@ Game Loop: complete the level
 ![image](https://github.com/ezgiakbas87/Quick-Wrecking-Ball/assets/126782676/8ef9d324-86ba-4ec5-85e7-a044d4c7d6d9)
 
 ---------------------------------
-Gameplay video on Linkedin: 
+Gameplay video on Linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7082473751308550144/
+
